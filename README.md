@@ -16,7 +16,7 @@
 ###  Features and Functionality
 <hr>
 
-- Todo App
+- Todo App with JavaScript
 <br>
 
 ###  App Flow
